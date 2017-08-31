@@ -213,5 +213,7 @@ position: absolute;
   -webkit-backface-visibility: hidden;
   pointer-events: none;
   font-size: 22px;
+    margin: 2px;
+  color: #1ab188;
     
 }

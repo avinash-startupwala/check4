@@ -56,6 +56,23 @@
             </label>
             <input type="password"required autocomplete="off"/>
           </div>
+            
+            <div class = "select-style">
+ 
+
+            <select id="looking_for" name="00N90000002GeUl">
+            <option value="">Looking For*</option>
+            <option value="One Person Company Registration">One Person Company Registration</option>
+            <option value="Pvt. Ltd. Registration">Pvt. Ltd. Registration</option>
+            <option value="LLP Registration">LLP Registration</option>
+            <option value="Trademark Registration">Trademark Registration</option>
+            <option value="GST Registration">GST Registration</option>
+            <option value="MSME Registration">MSME Registration</option>
+            <option value="ISO Certification">ISO Certification</option>
+            <option value="Other Services">Other Services</option>                        
+          </select>
+      
+          </div>
           
           <button type="submit" class="button button-block"/>Get Started</button>
           

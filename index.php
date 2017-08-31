@@ -25,7 +25,7 @@
         <div id="signup">   
           <h1>Sign Up for Free</h1>
           
-          <form action="/" method="post">
+          <form action="signup.php" method="post">
           
           <div class="top-row">
             <div class="field-wrap">
@@ -66,7 +66,7 @@
         <div id="login">   
           <h1>Welcome Back!</h1>
           
-          <form action="/" method="post">
+          <form action="login.php" method="post">
           
             <div class="field-wrap">
             <label>

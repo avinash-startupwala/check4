@@ -57,7 +57,7 @@
             <input type="password"required autocomplete="off"/>
           </div>
             
-            <div class = "field-wrap">
+            <div class = "select-style">
  
 
             <select id="looking_for" name="00N90000002GeUl">
